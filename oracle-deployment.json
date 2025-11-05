@@ -1,0 +1,14 @@
+{
+  "network": "development",
+  "timestamp": "2025-11-03T20:11:48.862Z",
+  "contracts": {
+    "oracle": "0xCec5a66c18e30648D1743f1D740e2301b1970519",
+    "donor": "0xcD8CdF6ad8502DFB1C861fB0cb5a0958F2064D5d",
+    "organNFT": "0xc0ff88E3027B92e4e25342E9CE5F7e75C2833e7c",
+    "organMatching": "0x651e484Db1560d6020975ee1D6311B89EbD1819e"
+  },
+  "accounts": {
+    "owner": "0x77E3B2A1906e343Ef49ecc0407bf311cA63EEcB4",
+    "backupOracle": "0xB67867f493efe493238b83B45BAc0a267b72Bd7a"
+  }
+}
